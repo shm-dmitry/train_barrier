@@ -1,0 +1,3 @@
+src/train_barrier/*.hex
+src/train_barrier/*.lst
+schematics/train_barrier/train_barrier-backups/
